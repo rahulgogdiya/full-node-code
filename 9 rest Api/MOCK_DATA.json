@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Euell",
+    "last_name": "Epperson",
+    "email": "eepperson0@4shared.com",
+    "gender": "Male",
+    "job_title": "Desktop Support Technician"
+  },
+  {
+    "id": 2,
+    "first_name": "Annis",
+    "last_name": "Gabala",
+    "email": "agabala1@dailymail.co.uk",
+    "gender": "Female",
+    "job_title": "Occupational Therapist"
+  },
+  {
+    "id": 3,
+    "first_name": "Luz",
+    "last_name": "Fish",
+    "email": "lfish2@ustream.tv",
+    "gender": "Female",
+    "job_title": "Graphic Designer"
+  },
+  {
+    "id": 4,
+    "first_name": "Sisely",
+    "last_name": "Fache",
+    "email": "sfache3@youtube.com",
+    "gender": "Female",
+    "job_title": "Health Coach I"
+  },
+  {
+    "id": 5,
+    "first_name": "Charline",
+    "last_name": "MacKaile",
+    "email": "cmackaile4@mashable.com",
+    "gender": "Female",
+    "job_title": "Assistant Media Planner"
+  },
+  {
+    "id": 6,
+    "first_name": "Friedrick",
+    "last_name": "Berrick",
+    "email": "fberrick5@reuters.com",
+    "gender": "Male",
+    "job_title": "VP Quality Control"
+  },
+  {
+    "id": 7,
+    "first_name": "Broddy",
+    "last_name": "Galey",
+    "email": "bgaley6@samsung.com",
+    "gender": "Male",
+    "job_title": "Accounting Assistant III"
+  },
+  {
+    "id": 8,
+    "first_name": "Derron",
+    "last_name": "Alsopp",
+    "email": "dalsopp7@meetup.com",
+    "gender": "Male",
+    "job_title": "Human Resources Assistant II"
+  },
+  {
+    "id": 9,
+    "first_name": "Nessy",
+    "last_name": "Mandeville",
+    "email": "nmandeville8@ibm.com",
+    "gender": "Female",
+    "job_title": "Social Worker"
+  },
+  {
+    "id": 10,
+    "first_name": "Hanny",
+    "last_name": "Rappport",
+    "email": "hrappport9@harvard.edu",
+    "gender": "Female",
+    "job_title": "Office Assistant IV"
+  }
+]
